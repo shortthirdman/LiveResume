@@ -8,6 +8,23 @@
   },
   "author": "Swetank Mohanty (shortthirdman)",
   "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shortthirdman/LiveResume.git"
+  },
+  "keywords": [
+    "surgesh",
+    "bootstrap",
+    "fontawesome",
+    "resume",
+    "profile",
+    "portfolio"
+  ],
+  "bugs": {
+    "url": "https://github.com/shortthirdman/LiveResume/issues"
+  },
+  "homepage": "https://github.com/shortthirdman/LiveResume#readme",
   "devDependencies": {
     "browser-sync": "^2.26.7",
     "gulp": "~4.0.2",
