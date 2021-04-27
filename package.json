@@ -1,25 +1,25 @@
 {
   "name": "live-resume",
   "version": "1.0.0",
-  "description": "",
+  "description": "LiveResume",
   "scripts": {
-	"build": "gulp build",
+    "build": "gulp build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Swetank Mohanty (shortthirdman)",
+  "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.26.7",
-    "gulp": "^4.0.2",
+    "gulp": "~4.0.2",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
     "node-sass": "^5.0.0"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.12.1",
-    "@popperjs/core": "^2.0.6",
-    "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1"
+    "@fortawesome/fontawesome-free": "~5.15.0",
+    "@popperjs/core": "~2.0.6",
+    "bootstrap": "~4.6.0",
+    "jquery": "~3.5.1"
   }
 }
